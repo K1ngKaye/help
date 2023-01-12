@@ -3,7 +3,8 @@ a simple /help command that can be used in your server to give out any necessary
 
 nothing too fancy just something u can add to help if you are just starting out
 
-HOW TO INSTALL 
+***HOW TO INSTALL*** 
+
 DOWNLOAD ZIP FOLDER, EXTRACT AND RENAME THE "help-main" folder to just "help"
 
 THEN JUST DRAG AND DROP THE HELP FOLDER INTO RESOURCES.
