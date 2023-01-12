@@ -1,6 +1,0 @@
-JUST DRAG AND DROP THE HELP FOLDER INTO RESOURCES.
-
-OPEN THE help_client file and change the messages to your liking for example your discord link/website
-you can add as many lines as you need or want
-
-Thanks and enjoy
